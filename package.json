@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kmcpherson49.github.io/react-portfolio",
-  "name": "react-portfolio",
+  "homepage": "https://kmcpherson49.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

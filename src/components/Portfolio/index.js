@@ -6,7 +6,7 @@ function Portfolio() {
   
   const [project] = useState([
     {
-      image: "/screenshots/0.jpg",
+      image: "https://raw.githubusercontent.com/kmcpherson49/portfolio/main/public/screenshots/0.jpg",
       name: "Planetarium Party",
       description:
         "This project is an app that allows users to search for their favorite planet and in return they'll get an image from the NASA API and a portion of the Wikipedia article about that planet. It features continuous dark mode to enhance the feel of being in space.",
