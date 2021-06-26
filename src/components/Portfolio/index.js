@@ -65,8 +65,8 @@ function Portfolio() {
             <Card.Text>{project.description}</Card.Text>
           </Card.Body>
           <Card.Body>
-            <Card.Link href={project.deployed}>Deployed</Card.Link>
-            <Card.Link href={project.repo}>Repo</Card.Link>
+            <Card.Link href={project.deployed} target="_blank">Deployed</Card.Link>
+            <Card.Link href={project.repo} target="_blank">Repo</Card.Link>
           </Card.Body>
         </Card>
       ))}
