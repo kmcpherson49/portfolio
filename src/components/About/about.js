@@ -1,6 +1,6 @@
 import React from "react";
 import Headshot from "../../assets/headshot/headshot.jpg"
-import { Container, Row, Col, Image } from 'react-bootstrap';
+import { Container, Row, Col, Image, Card } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function About() {
@@ -10,9 +10,10 @@ function About() {
         <Row>
         <Col xs={6}>
       <div className="bio">
-        <h2>About Me</h2>
-        <p>Welcome! My name is Krista McPherson.</p>
-        <p>
+        <Card>
+        <Card.Title>About Me</Card.Title>
+        <Card.Body>Welcome! My name is Krista McPherson.</Card.Body>
+        <Card.Body>
           Full Stack Web Developer with an extensive background in social media
           marketing and digital strategy looking to combine two unique but
           complementary skill sets to create a seamless, efficient user and team
@@ -29,7 +30,8 @@ function About() {
           applications. I have a passion for content creation and can find
           numerous ways of connecting with your audience either by social media,
           website, or app.
-        </p>
+        </Card.Body>
+        </Card>
       </div>
       </Col>
       <Col>

@@ -20,7 +20,7 @@ function App() {
   const [currentTab, setCurrentTab] = useState(tabs[0]);
 
   return (
-    <div>
+    <div className="color-change-2x">
       <Nav
       tabs={tabs}
       setCurrentTab={setCurrentTab}
