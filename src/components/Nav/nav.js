@@ -18,7 +18,7 @@ function Nav(props) {
       {/* <h1>
         <a href="/">Krista McPherson's Portfolio</a>
       </h1> */}
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+      <img src={coverImage} className="my-2, slide-in-right" style={{ width: "100%" }} alt="cover" />
       <nav>
         <ul className="flex-row">
           <li className="mx-2"></li>
