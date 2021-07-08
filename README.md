@@ -4,7 +4,7 @@
 
 ![Portfolio Screen Shot](./screenshots/portfolio-screenshot.jpg)
 
->[Link to the website]( https://kmcpherson49.github.io/react-portfolio/)
+>[Link to the website](https://kmcpherson49.github.io/portfolio/)
 
 >This project is my professional portfolio made with React to showcase my resume, projects, and contact information.
 
