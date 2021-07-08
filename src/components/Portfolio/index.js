@@ -6,6 +6,14 @@ function Portfolio() {
   
   const [project] = useState([
     {
+      image: "../../6.jpg",
+      name: "FATE",
+      description:
+        "This project is a Full Stack MERN application that allows users to explore the world of astrology. Explore your fate by getting a Tarot Readings and Daily Horoscopes.",
+      deployed: "https://fate-readings.herokuapp.com/",
+      repo: "https://github.com/sstevens22/Interactive-Project",
+    },
+    {
       image: "https://raw.githubusercontent.com/kmcpherson49/portfolio/main/public/screenshots/0.jpg",
       name: "Planetarium Party",
       description:
