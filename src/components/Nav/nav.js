@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { capitalizeFirstLetter } from "../../utils/helpers";
 import coverImage from '../../assets/cover/portfolio-header-best.jpg';
+import Header from "../Header/header";
 
 function Nav(props) {
   const {
@@ -18,7 +19,8 @@ function Nav(props) {
       {/* <h1>
         <a href="/">Krista McPherson's Portfolio</a>
       </h1> */}
-      <img src={coverImage} className="my-2, slide-in-right" style={{ width: "100%" }} alt="cover" />
+      {/* <img src={coverImage} className="my-2, slide-in-right" style={{ width: "100%" }} alt="cover" /> */}
+<Header />
       <nav>
         <ul className="flex-row">
           <li className="mx-2"></li>
@@ -38,7 +40,7 @@ function Nav(props) {
           ))}
         </ul>
       </nav>
-    </header>
+   </header>
   );
 }
 
