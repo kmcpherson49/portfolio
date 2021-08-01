@@ -19,9 +19,7 @@ function Resume() {
       <div>
         <Card.Title>Summary</Card.Title>
         <p>
-          Full Stack Web Developer with a background in Social Media Marketing
-          and passion for learning. Known for providing consistent work and
-          finding creative, resourceful solutions.
+        Full Stack Web Developer with a background in social media marketing. Life-long learner recognized for delivering quality services and products and conceiving innovative and resourceful solutions. Self-starter and effective interpersonal communicator that thrives in collaborative team environments. Proven problem solver passionate about creating engaging and user-centric experiences.
         </p>
       </div>
       <div>
@@ -55,15 +53,23 @@ function Resume() {
           approved manager of account records. Edit and film marketing videos
           and prepare scripts, and create copy and assets for email newsletters
           and invitations.
+          <ol>
+            <li>Improved efficiency by identifying weak points in workflow and implemented automated platforms.</li>
+            <li>Expanded the client base through the acquisition of 12 new clients in less than a year by cultivating strategic relationships and delivering effective interpersonal communication to ensure transparency. </li>
+          </ol>
         </Card.Text>
         <Card.Title>Social Media Marketing Specialist</Card.Title>
         <Card.Title>Scottsdale Pavilion Entertainment Complex</Card.Title>
         <Card.Text>2018 - 2020</Card.Text>
-        <p>
+        <Card.Text>
           Managed all social platforms. Created content for instagram, email
           newsletters, and Facebook. Enhanced sales growth by planning and
           executing social media campaigns and cultivating client relations.
-        </p>
+          <ol>
+            <li>Boosted sales by planning and executing social media campaigns and cultivating client relations. </li>
+            <li>Spiked Instagram engagement and follower base 70% by implementing a “Takeover Thursdays” collaborative event, providing artists the opportunity to create content and showcase their skills. </li>
+          </ol>
+          </Card.Text>
       </div>
       </Card>
       </Container>

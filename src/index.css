@@ -140,13 +140,13 @@ li {
   list-style: none;
 }
 
-nav a:hover {
+/* nav a:hover {
   text-decoration: none;
 }
 
 nav li {
   cursor: pointer;
-}
+} */
 
 textarea {
   width: 600px;
@@ -162,3 +162,4 @@ header a {
 header li {
   color: var(--light);
 }
+

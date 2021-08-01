@@ -1,11 +1,12 @@
 
 import React from 'react';
 import './header-style.css';
-
+import Nav from '../Nav/nav.js';
 
 function Header() {
     return (
         <header>
+           <Nav />
         <div class="overlay"></div>
         <div>
             <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -20,9 +21,10 @@ function Header() {
             </div>
           </div>
         </div>
+       
         </header>
       
-    );
+    )
 }
 
 export default Header;
