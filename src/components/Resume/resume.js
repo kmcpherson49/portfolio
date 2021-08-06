@@ -17,6 +17,10 @@ function Resume() {
         </Card.Body>
       </div>
       <div>
+      <a href="./public/resume/Krista McPherson Resume.jpg" download="Krista McPherson Resume">Download A Copy of My Resume</a>
+      
+      </div>
+      <div>
         <Card.Title>Summary</Card.Title>
         <p>
         Full Stack Web Developer with a background in social media marketing. Life-long learner recognized for delivering quality services and products and conceiving innovative and resourceful solutions. Self-starter and effective interpersonal communicator that thrives in collaborative team environments. Proven problem solver passionate about creating engaging and user-centric experiences. 
