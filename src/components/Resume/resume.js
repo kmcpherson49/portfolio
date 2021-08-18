@@ -14,10 +14,11 @@ function Resume() {
         <Card.Text>kmcpherson49@gmail.com</Card.Text>
         <Card.Link href="https://www.linkedin.com/in/kristamcpherson">LinkedIn</Card.Link>
         <Card.Link href="https://github.com/kmcpherson49">Github</Card.Link>
+        <Card.Link href="https://docs.google.com/document/d/1OV7mQpOCNDQKPGSOmb33fNhzGmDh09cAG6Q8X97SVlk/edit?usp=sharing" target="_blank">Download my Resume</Card.Link>
         </Card.Body>
       </div>
       <div>
-      <a href="./public/resume/Krista McPherson Resume.jpg" download="Krista McPherson Resume">Download A Copy of My Resume</a>
+      {/* <a href="./public/resume/Krista McPherson Resume.jpg" download="Krista McPherson Resume">Download A Copy of My Resume</a> */}
       
       </div>
       <div>
