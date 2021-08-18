@@ -4,7 +4,7 @@ import{ Container, Card } from 'react-bootstrap'
 function Resume() {
   return (
     <div>
-      <a href="./../../public/resume/Krista McPherson Resume.png" download="Krista McPherson Resume"><img src="./public/resume/Krista McPherson Resume.png" /></a>
+      <a href="./../../public/resume/Krista McPherson Resume.png" download="Krista McPherson Resume"><img src="../public/resume/Krista McPherson Resume.png" /></a>
     </div>
     // <section>
     //     <Container>
