@@ -6,7 +6,7 @@ function Resume() {
     <section>
         <Container>
             <Card>
-      <div>
+      <div className="text-center">
         <h1>Krista McPherson</h1>
         <Card.Body>
         <Card.Text>Scottsdale, AZ 85250</Card.Text>
@@ -17,11 +17,14 @@ function Resume() {
         <Card.Link href="https://docs.google.com/document/d/1OV7mQpOCNDQKPGSOmb33fNhzGmDh09cAG6Q8X97SVlk/edit?usp=sharing" target="_blank">Download my Resume</Card.Link>
         </Card.Body>
       </div>
+      <div className="text-center">
+        <img src="https://raw.githubusercontent.com/kmcpherson49/portfolio/develop/public/resume/Krista%20McPherson%20Resume.png" width="1000"></img>
+      </div>
       <div>
       {/* <a href="./public/resume/Krista McPherson Resume.jpg" download="Krista McPherson Resume">Download A Copy of My Resume</a> */}
       
       </div>
-      <div>
+      {/* <div>
         <Card.Title>Summary</Card.Title>
         <p>
         Full Stack Web Developer with a background in social media marketing. Life-long learner recognized for delivering quality services and products and conceiving innovative and resourceful solutions. Self-starter and effective interpersonal communicator that thrives in collaborative team environments. Proven problem solver passionate about creating engaging and user-centric experiences. 
@@ -75,7 +78,7 @@ function Resume() {
             <li>-Spiked Instagram engagement and follower base 70% by implementing a “Takeover Thursdays” collaborative event, providing artists the opportunity to create content and showcase their skills. </li>
           </ol>
           </Card.Text>
-      </div>
+      </div> */}
       </Card>
       </Container>
     </section>
